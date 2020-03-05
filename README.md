@@ -57,3 +57,24 @@ The response to this question changes regarding to the approach.
 
 ### -How precise do you think your outcome is and why?
 Actually if we just have a concern about exact keyword matching, first solution gives some clue, but is not adequate. I think we need to have a concern about the real customer experience results, and the second approach is better. But it should be tested with wide range of data to have remarkable result. By the way, it should be divided into sections to query the different markets of Amazon to gather more accurate data. I believe nothing is perfect and everything  can be improved :)
+
+## Screenshots
+![](https://raw.githubusercontent.com/uprockin/amazon-autocomplete-api/master/screenshots/1.PNG)
+
+![](https://raw.githubusercontent.com/uprockin/amazon-autocomplete-api/master/screenshots/2.PNG)
+
+![](https://raw.githubusercontent.com/uprockin/amazon-autocomplete-api/master/screenshots/3.PNG)
+
+![](https://raw.githubusercontent.com/uprockin/amazon-autocomplete-api/master/screenshots/4.PNG)
+
+![](https://raw.githubusercontent.com/uprockin/amazon-autocomplete-api/master/screenshots/5.PNG)
+
+![](https://raw.githubusercontent.com/uprockin/amazon-autocomplete-api/master/screenshots/6.PNG)
+
+![](https://raw.githubusercontent.com/uprockin/amazon-autocomplete-api/master/screenshots/7.PNG)
+
+![](https://raw.githubusercontent.com/uprockin/amazon-autocomplete-api/master/screenshots/8.PNG)
+
+![](https://raw.githubusercontent.com/uprockin/amazon-autocomplete-api/master/screenshots/9.PNG)
+
+![](https://raw.githubusercontent.com/uprockin/amazon-autocomplete-api/master/screenshots/10.PNG)
